@@ -1,1 +1,1 @@
-# IT2234
+# IT2234 - practical sessions
